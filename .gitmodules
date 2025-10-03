@@ -1,0 +1,9 @@
+[submodule "KNN-from-scratch"]
+	path = KNN-from-scratch
+	url = https://github.com/CarvedCoder/KNN-from-scratch
+[submodule "TensorLib"]
+	path = TensorLib
+	url = https://github.com/CarvedCoder/TensorLib
+[submodule "AutoGrad_from_scratch"]
+	path = AutoGrad_from_scratch
+	url = https://github.com/CarvedCoder/AutoGrad_from_scratch
